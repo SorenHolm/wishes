@@ -8,3 +8,4 @@ Så se det også som inspiration - for der er heldigvis forskel på en ønskesed
 
 
 ## Vær opmærksom på, at dette blot er en test.
+[Selve ønskerne](/ønsker.md)
